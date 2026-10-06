@@ -1,0 +1,6 @@
+/target/
+/verify-temp/
+/bootstrap-test/
+/dist/
+*.exe
+*.dll

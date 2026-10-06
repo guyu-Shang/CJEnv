@@ -1,0 +1,20 @@
+Third-party components bundled with CJEnv 0.1.0 for Windows x64
+
+The following DLLs are unmodified copies from Cangjie SDK 1.0.5.
+They are not covered by the CJEnv project's LICENSE.
+
+libcangjie-runtime.dll
+  Source: Cangjie SDK 1.0.5.
+  The SDK root LICENSE states that the Cangjie Project is under
+  Apache License 2.0 with Runtime Library Exception.
+  A verbatim copy of that SDK LICENSE is in licenses/CANGJIE_LICENSE.
+  No separate license file for this DLL was present in the inspected SDK.
+
+libboundscheck.dll
+  Source: Cangjie SDK 1.0.5.
+  The SDK Open_Source_Software_Notice.docx identifies
+  "Software: libboundscheck v1.1.16".
+  Copyright notice: Copyright (c) Huawei Technologies Co., Ltd. 2014-2021. All rights reserved.
+  License: Mulan PSL v2.
+  The applicable license text extracted from that SDK notice is in
+  licenses/LIBBOUNDSCHECK_LICENSE.
